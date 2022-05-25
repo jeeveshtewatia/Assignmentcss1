@@ -1,0 +1,64 @@
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.red {
+    color: rgba(255, 0, 0, 1);
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.linein {
+    text-decoration-line: line-through;
+}
+
+ol>li {
+    line-height: 50px;
+    font-weight: 600;
+    color: brown;
+    font-size: 20px;
+}
+
+.bgyellow {
+    background-color: yellow;
+}
+
+ul>li {
+    color: brown;
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+
+a {
+    color: brown;
+    font-weight: 600;
+}
+
+#id {
+    color: brown;
+    font-size: 20px;
+    font-weight: 540;
+}
+
+.clas {
+    color: brown;
+    font-size: 20px;
+    font-weight: 540;
+}
+
+p {
+    color: brown;
+    font-size: 20px;
+    font-weight: 540;
+}
